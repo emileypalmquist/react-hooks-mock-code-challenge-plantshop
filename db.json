@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Golden Pothos",
+      "image": "https://nouveauraw.com/wp-content/uploads/2020/01/Pothos-Golden-Pothos-plant-FF.png",
+      "price": "0.32",
+      "id": 8
     }
   ]
 }
